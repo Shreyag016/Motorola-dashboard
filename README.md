@@ -31,4 +31,4 @@ Supports better marketing and sales strategies with data-backed insights.
 Helps identify profitable areas and potential bottlenecks
 
 Snapshot 
-link (
+link (https://github.com/Shreyag016/Motorola-dashboard/blob/main/Screenshot%202025-06-05%20203439.png)
