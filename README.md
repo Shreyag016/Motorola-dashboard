@@ -1,4 +1,4 @@
-📊 Motorola Sales Dashboard - Power BI Project# Motorola-dashboard
+📊 Motorola Sales Dashboard - Power BI Project
 🔍 Project Purpose
 This project aims to analyze and visualize mobile sales data using an interactive and insightful Power BI dashboard. The goal is to help stakeholders make data-driven decisions by presenting key sales metrics in a clear and concise manner.
 
